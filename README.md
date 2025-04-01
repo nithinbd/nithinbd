@@ -21,7 +21,7 @@ I'm a **Software Engineer** with nearly **6 years** of experience in building **
 
 ## 🔥 My Open-Source Contributions
 
-### 🏗️ [Angular Drag-Drop Library](https://github.com/nithinbd/angular-drag-drop)
+### 🏗️ [Angular Drag-Drop Library](https://www.npmjs.com/package/@bdnithin/angular-drag-drop)
 - Customizable drag-and-drop solution for Angular apps.  
 - Built with **TypeScript and RxJS**.  
 - **600+ npm downloads**, actively maintained.  

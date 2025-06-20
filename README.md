@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-I'm a **Software Engineer** with nearly **6 years** of experience in building **scalable, high-performance web applications**. I specialize in **Angular, React, JavaScript, and TypeScript**, delivering optimized and user-friendly solutions across various domains including **banking, fintech, supply chain risk management, and project management**.
+I'm a **Software Engineer** with **6 years** of experience in building **scalable, high-performance web applications**. I specialize in **Angular, React, JavaScript, and TypeScript**, delivering optimized and user-friendly solutions across various domains, including **banking, fintech, supply chain risk management, and project management**.
 
 - **Frontend Specialist:** Angular (v8-v18), React.js, TypeScript, RxJS, NgRx  
 - **UI/UX Enthusiast:** Motion Design, Responsive Design, Accessibility (WCAG)  
